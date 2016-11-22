@@ -29,13 +29,15 @@ Gavel makes it really simple for you to submit votes, but please think hard
 before you vote. **Once you make a decision, you can't take it back**.
 '''.strip()
 
-DEFAULT_EMAIL_SUBJECT = 'Welcome to Gavel!'
+DEFAULT_EMAIL_SUBJECT = 'Welcome to the First Round of Judging!'
 
 DEFAULT_EMAIL_BODY = '''
-Hi {name},
+Hello {name},
 
-Welcome to Gavel, the online expo judging system. This email contains your
-magic link to the judging system.
+Welcome to Gavel, an online expo judging system.  Gavel will be used for the 
+first round of judging of the Workday Hackathon 2016. 
+
+This email contains your magic link to the judging system.
 
 DO NOT SHARE this email with others, as it contains your personal magic link.
 
