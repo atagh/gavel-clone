@@ -9,7 +9,9 @@ SETTING_FALSE = 'false'
 
 # Defaults
 DEFAULT_WELCOME_MESSAGE = '''
-Welcome to Gavel.
+Welcome to Gavel.   
+
+Gavel will be used for the first round of judging of the Workday Global Hackathon 2016!
 
 **Please read this important message carefully before continuing.**
 
@@ -30,8 +32,10 @@ DEFAULT_EMAIL_SUBJECT = 'Welcome to the First Round of Judging!'
 DEFAULT_EMAIL_BODY = '''
 Hello {name},
 
+Thank you for being a first round judges for the Workday 2016 Global Hackathon!
+
 Welcome to Gavel, an online expo judging system.  Gavel will be used for the 
-first round of judging of the Workday Hackathon 2016. 
+first round of judging of our Hackathon. 
 
 This email contains your magic link to the judging system.
 
