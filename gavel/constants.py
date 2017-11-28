@@ -11,7 +11,7 @@ SETTING_FALSE = 'false'
 DEFAULT_WELCOME_MESSAGE = '''
 Welcome to Gavel.   
 
-Gavel will be used for the first round of judging of the Workday Global Hackathon 2016!
+Gavel will be used for the first round of judging of the Workday Global Hackathon 2017!
 
 **Please read this important message carefully before continuing.**
 
@@ -23,6 +23,10 @@ looking at a single submission, and then for every submission after that,
 you'll decide whether it's better or worse than the one you looked at
 **immediately beforehand**.
 
+If at any point, you can't find a particular submission, you can click the
+'Skip' button and you will be assigned a new project. 
+**Please don't skip unless absolutely necessary.**
+
 Gavel makes it really simple for you to submit votes, but please think hard
 before you vote. **Once you make a decision, you can't take it back**.
 '''.strip()
@@ -32,7 +36,7 @@ DEFAULT_EMAIL_SUBJECT = 'Welcome to the First Round of Judging!'
 DEFAULT_EMAIL_BODY = '''
 Hello {name},
 
-Thank you for being a first round judge for the Workday 2016 Global Hackathon!
+Thank you for being a first round judge for the Workday 2017 Global Hackathon!
 
 Welcome to Gavel, an online expo judging system.  Gavel will be used for the 
 first round of judging of our Hackathon. 
